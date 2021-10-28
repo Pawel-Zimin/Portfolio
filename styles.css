@@ -27,6 +27,12 @@
    width: 100%;
    z-index: 2;
  }
+
+ .siteTitle {
+   color: white;
+   margin: 0 auto 0 0;
+   padding: 20px;
+ }
  
  #navbar ul {
    background-color: var(--bg-secondary);
@@ -91,6 +97,10 @@
    text-align: center;
    padding: 80px 0 8px 0;
    border-bottom: 2px solid white;
+ }
+
+ .tiles-container {
+   margin: 40px 0;
  }
  
  .project-tile {

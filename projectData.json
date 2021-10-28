@@ -1,0 +1,59 @@
+{
+   "projectsData": {
+      "Gallery with modal": {
+         "link": "https://pawel-zimin.github.io/JavaScript-gallery-w-modal/",
+         "image": "/img/gallery with modal.png",
+         "title": "Gallery with modal"
+      },
+      "Cat API": {
+         "link": "https://pawel-zimin.github.io/Cat-API/",
+         "image": "/img/CatApi.png",
+         "title": "Simple App using Cat API"
+      },
+      "Picture Divider": {
+         "link": "https://pawel-zimin.github.io/Picture-slider-divider/",
+         "image": "/img/PictureDivider.png",
+         "title": "Dynamic Picture Divider"
+      },
+      "Dynamic site scrolling": {
+         "link": "https://pawel-zimin.github.io/Dynamic-Scroller/",
+         "image": "/img/SiteScroller.png",
+         "title": "Dynamic site scroller"
+      },
+      "Pure JavaScript to do list": {
+         "link": "https://pawel-zimin.github.io/JS-to-do-list-v2/",
+         "image": "/img/PureJSToDoList.png",
+         "title": "Pure JavaScript to do list"
+      },
+      "React to do list": {
+         "link": "https://pawel-zimin.github.io/ReactToDoList/",
+         "image": "/img/ReactToDoList.png",
+         "title": "React to do list"
+      },
+      "Simple text editor": {
+         "link": "https://github.com/Pawel-Zimin/text-editor",
+         "image": "/img/Simple text editor.png",
+         "title": "Simple text editor"
+      },
+      "Simple password checker": {
+         "link": "https://pawel-zimin.github.io/Simple-password-checker/",
+         "image": "/img/SimplePasswordChecker.png",
+         "title": "Simple password checker"
+      },
+      "Single page basic layout": {
+         "link": "https://pawel-zimin.github.io/Basic-single-page-layout/",
+         "image": "/img/SinglePageBasicLayout.png",
+         "title": "Single Page Basic Layout"
+      },
+      "Weather App": {
+         "link": "https://pawel-zimin.github.io/WeatherApp/",
+         "image": "/img/WeatherApp.png",
+         "title": "Weather App"
+      },
+      "Polished to do app": {
+         "link": "https://pawel-zimin.github.io/Polished-to-do-app/",
+         "image": "/img/Polished to do list.png",
+         "title": "Polished to do app"
+      }
+   }
+}
