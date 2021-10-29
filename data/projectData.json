@@ -54,6 +54,11 @@
          "link": "https://pawel-zimin.github.io/Polished-to-do-app/",
          "image": "./img/Polished to do list.png",
          "title": "Polished to do app"
+      },
+      "JavaScript Calculator": {
+         "link": "https://pawel-zimin.github.io/JavaScript-Calculator/",
+         "image": "./img/JavaScript Calculator.png",
+         "title": "JavaScript Calculator"
       }
    }
 }
