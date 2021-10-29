@@ -1,7 +1,18 @@
+const mailLi = document.querySelector('.mail-li');
+const mailP = document.querySelector('.email-container p');
+
+mailLi.addEventListener('click', () => {
+   mailP.style.setProperty('opacity', '1');
+   setTimeout(() => {
+      mailP.style.setProperty('opacity', 0);
+   }, 10000);
+});
+
+
 const tilesContainer = document.querySelector('.tiles-container');
 
 const getJson = async () => {
-   const response = await fetch('./projectData.json');
+   const response = await fetch('./data/projectData.json');
    const jsonData = await response.json();
    const data = jsonData.projectsData;
    console.log(data);
